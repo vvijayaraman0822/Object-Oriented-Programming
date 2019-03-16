@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\vasudev2296\source\repos\spaceasteroid\spaceasteroid\main.cpp(36): warning C4101: 'weight': unreferenced local variable
+  SpaceAsteroid.vcxproj -> C:\Users\vasudev2296\source\repos\SpaceAsteroid\Debug\SpaceAsteroid.exe
+  SpaceAsteroid.vcxproj -> C:\Users\vasudev2296\source\repos\SpaceAsteroid\Debug\SpaceAsteroid.pdb (Partial PDB)

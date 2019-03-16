@@ -1,0 +1,87 @@
+PRECIOUS LIST
+Asteroid                  Position             Size      
+0                         (4  , 5  )            2.2         
+1                         (97 , 88 )            4           
+2                         (5  , 10 )            5.6         
+3                         (10 , 50 )            4           
+4                         (20 , 30 )            4           
+5                         (50 , 50 )            3           
+6                         (85 , 75 )            2.2         
+COLLECTED ASTEROIDS
+SpaceCraft position       Asteroid Collected        Position             Size      Distance (in miles)
+------------------------------------
+SpaceProbe
+
+X-coordinate: 0
+Y-coordinate: 10
+Index: 0
+Distance travelled: 165.021438 miles
+This craft has visited 3 asteroid(s)
+-------------------------------------
+
+------------------------------------
+SpaceProbe
+
+X-coordinate: 50
+Y-coordinate: 50
+Index: 1
+Distance travelled: 1754.400375 miles
+This craft has visited 3 asteroid(s)
+-------------------------------------
+
+------------------------------------
+SpaceProbe
+
+X-coordinate: 85
+Y-coordinate: 75
+Index: 2
+Distance travelled: 1998.958424 miles
+This craft has visited 3 asteroid(s)
+-------------------------------------
+
+------------------------------------
+SpaceProbe
+
+X-coordinate: 100
+Y-coordinate: 100
+Index: 3
+Distance travelled: 2149.077374 miles
+This craft has visited 3 asteroid(s)
+-------------------------------------
+
+------------------------------------
+SpaceProbe
+
+X-coordinate: 30
+Y-coordinate: 40
+Index: 4
+Distance travelled: 710.977223 miles
+This craft has visited 2 asteroid(s)
+-------------------------------------
+
+------------------------------------
+SpaceShip
+
+X-coordinate: 0
+Y-coordinate: 0
+Index: 5
+Distance travelled: 0.000000 miles
+This craft has collected 0 asteroid(s)
+Weight of asteroids collected are: 0.000000
+-----------------------------------
+
+------------------------------------
+SpaceShip
+
+X-coordinate: 80
+Y-coordinate: 80
+Index: 6
+Distance travelled: 0.000000 miles
+This craft has collected 0 asteroid(s)
+Weight of asteroids collected are: 0.000000
+-----------------------------------
+
+Total collected: 0
+Total visited: 14
+Total Distance: 6778.43 miles
+Total weight in SpaceShips: 0

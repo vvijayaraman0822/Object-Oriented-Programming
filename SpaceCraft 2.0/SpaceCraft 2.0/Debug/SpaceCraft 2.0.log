@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\vasudev2296\source\repos\spacecraft 2.0\spacecraft 2.0\main.cpp(34): warning C4101: 'asteroidX': unreferenced local variable
+c:\users\vasudev2296\source\repos\spacecraft 2.0\spacecraft 2.0\main.cpp(34): warning C4101: 'asteroidY': unreferenced local variable
+c:\users\vasudev2296\source\repos\spacecraft 2.0\spacecraft 2.0\main.cpp(34): warning C4101: 'place': unreferenced local variable
+  SpaceCraft 2.0.vcxproj -> C:\Users\vasudev2296\source\repos\SpaceCraft 2.0\Debug\SpaceCraft 2.0.exe
+  SpaceCraft 2.0.vcxproj -> C:\Users\vasudev2296\source\repos\SpaceCraft 2.0\Debug\SpaceCraft 2.0.pdb (Partial PDB)

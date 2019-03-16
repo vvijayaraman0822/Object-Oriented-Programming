@@ -1,0 +1,29 @@
+SPACESHIP
+Asteroid Collected        Position             Size      Distance (in miles)
+0                         (4  , 5  )            2.2         64.0312
+1                         (5  , 10 )            5.6         50.9902
+7                         (0  , 10 )            3           50
+2                         (20 , 30 )            4           282.843
+3                         (30 , 40 )            3.5         141.421
+
+5 Asteroids collected
+Total distance: 589.286
+Total weight: 18.3
+
+
+SPACE PROBE
+Asteroid Collected        Position             Size      Distance (in miles)     Precious?
+19                        (30 , 65 )            4.5         715.891                NO
+18                        (20 , 70 )            7           111.803                YES
+17                        (10 , 50 )            4           223.607                YES
+16                        (40 , 70 )            4.5         360.555                NO
+11                        (40 , 60 )            8.7         100                    YES
+13                        (30 , 45 )            9.1         180.278                NO
+12                        (50 , 50 )            3           206.155                YES
+4                         (60 , 70 )            8           223.607                YES
+14                        (85 , 75 )            2.2         254.951                YES
+8                         (75 , 75 )            9.2         100                    YES
+
+10 Asteroids visited
+Total distance: 2476.85 miles
+7 asteroid(s) have precious metals
