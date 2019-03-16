@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\vasudev2296\source\repos\balanced paranthesis\balanced paranthesis\main.cpp(65): warning C4101: 'ch': unreferenced local variable
+  Balanced Paranthesis.vcxproj -> C:\Users\vasudev2296\source\repos\Balanced Paranthesis\Debug\Balanced Paranthesis.exe
+  Balanced Paranthesis.vcxproj -> C:\Users\vasudev2296\source\repos\Balanced Paranthesis\Debug\Balanced Paranthesis.pdb (Partial PDB)

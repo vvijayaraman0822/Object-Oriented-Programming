@@ -1,0 +1,26 @@
+Expression                                  Balanced or Not 
+
+_____________________________________________________________________
+Wh())))(((atare))
+                     Not Balanced
+
+()()()()()()()                             Balanced
+
+((((((())))()()                     Not Balanced
+
+Noway()The())
+                     Not Balanced
+
+()(llldfvv)                             Balanced
+
+scbjasnvmas()()                             Balanced
+
+V(a(s))kkk()                             Balanced
+
+()()()(                     Not Balanced
+
+gv1025(ca)                             Balanced
+
+gramam()()(                     Not Balanced
+
+Great Job in finishing the first assignment. You deserve an applaud
